@@ -13,6 +13,7 @@
   font-weight: bold;
   font-size: 1.5rem;
   margin: 1rem 0;
+ 
 }
 
 .actions {
@@ -43,4 +44,7 @@
 .actions .button {
   background-color: #8a2b06;
   color: white;
+}
+.sendmsg{
+margin-top: 300px;
 }
